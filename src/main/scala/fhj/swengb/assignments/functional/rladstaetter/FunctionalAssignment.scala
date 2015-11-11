@@ -1,5 +1,6 @@
 package fhj.swengb.assignments.functional.zerberuss
 
+
 /**
   * This is the first assignment for swengb 2015.
   *
