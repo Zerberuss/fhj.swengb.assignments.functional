@@ -1,4 +1,4 @@
-package fhj.swengb.assignments.functional.schneida13
+package fhj.swengb.assignments.functional.aschneider
 
 import org.junit.Assert._
 import org.junit.{Ignore, Test}
